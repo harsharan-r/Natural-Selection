@@ -11,17 +11,16 @@ Attribution to video: [Code Bullet's AI Tutorial](https://www.youtube.com/watch?
     git clone https://github.com/harsharan-r/Natural-Selection.git
     ```
 
-2. Navigate to the `NatSelect Game 3 (Working)` folder:
-    ```
-    cd Natural-Selection/First\ Natural\ Selection/NatSelect\ Game\ 3\ \(Working\)
-    ```
-
-3. Install dependencies if any (e.g., NumPy, Matplotlib):
+2. Install dependencies if any (e.g., NumPy, Matplotlib):
     ```
     pip install -r requirements.txt
     ```
 
 ## Running the Game
+Navigate to the `NatSelect Game 3 (Working)` folder:
+```
+cd Natural-Selection/First\ Natural\ Selection/NatSelect\ Game\ 3\ \(Working\)
+```
 
 To run the simulation, execute the following in your terminal:
 
